@@ -1,14 +1,13 @@
-#android study resources
+#Android Study Resources
 
-**粗体**
-[]()
+[]()  
 
 ##知识库&面试宝典
 [JackyAndroid的AndroidInterview](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)  
 [GeniusVJR的LearningNotes](https://github.com/GeniusVJR/LearningNotes)  
 [Lafree317的ShareAndroidResource](https://github.com/Lafree317/ShareAndroidResource)  
 [五年Android 开发者百度、阿里、聚美、映客的面试心经](http://www.diycode.cc/topics/165)  
-[]()  
+[知乎肥肥鱼收藏夹](https://www.zhihu.com/collection/53420377)  
 []()  
 []()  
 
@@ -26,9 +25,9 @@
 
 ##RxJava
 [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)  
+[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083#toc_1)  
 
 ##MVP
-[]()  
 []()  
 
 ##开源app
@@ -49,14 +48,13 @@
 []()  
 
 
-
 ##ReactNative & Weex
 [weex](http://alibaba.github.io/weex/)  
 [react-native](http://facebook.github.io/react-native/)  
 
 ##性能优化
 [内存优化](http://www.2cto.com/kf/201411/348847.html)  
-[](http://geek.csdn.net/news/detail/71031)  
+[性能优化系列5](http://geek.csdn.net/news/detail/71031)  
 []()  
 []()  
 []()  
