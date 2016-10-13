@@ -7,6 +7,10 @@
 [JackyAndroid的AndroidInterview](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)  
 [GeniusVJR的LearningNotes](https://github.com/GeniusVJR/LearningNotes)  
 [Lafree317的ShareAndroidResource](https://github.com/Lafree317/ShareAndroidResource)  
+[五年Android 开发者百度、阿里、聚美、映客的面试心经](http://www.diycode.cc/topics/165)  
+[]()  
+[]()  
+[]()  
 
 ##热补丁
 [腾讯Tinker](https://github.com/Tencent/tinker)  
@@ -15,27 +19,34 @@
 [AndFix](https://github.com/alibaba/AndFix)  
 [dexposed](https://github.com/alibaba/dexposed)  
 [Android热更新之so库的热更新](http://blog.csdn.net/sbsujjbcy/article/details/51475499)  
-
+[]()  
+[]()  
+[]()  
+[]()  
 
 ##RxJava
 [Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava)  
 
 ##MVP
+[]()  
+[]()  
 
 ##开源app
+[]()  
+[]()  
 
 ##开源组件
 [okhttp-网络](https://github.com/square/okhttp)   
 [retrofit-网络](https://github.com/square/retrofit)  
 [picasso-图片](http://square.github.io/picasso/)  
 [Volley-网络](https://android.googlesource.com/platform/frameworks/volley)  
-[fresco](https://github.com/facebook/fresco)  
-[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)  
+[fresco-图片](https://github.com/facebook/fresco)  
+[Android-Universal-Image-Loader-图片](https://github.com/nostra13/Android-Universal-Image-Loader)  
 [greenDAO-orm](http://greendao-orm.com/)  
-[gson](https://github.com/google/gson)  
-[fastjson](https://github.com/alibaba/fastjson)  
-[]()
-[]()
+[gson-json解析](https://github.com/google/gson)  
+[fastjson-json解析](https://github.com/alibaba/fastjson)  
+[]()  
+[]()  
 
 
 
@@ -44,7 +55,16 @@
 [react-native](http://facebook.github.io/react-native/)  
 
 ##性能优化
+[内存优化](http://www.2cto.com/kf/201411/348847.html)  
+[](http://geek.csdn.net/news/detail/71031)  
+[]()  
+[]()  
+[]()  
 
 ##杂类知识点
 [进程/服务保活](http://www.cnblogs.com/yydcdut/p/3851029.html)  
-
+[Touch事件分发](http://www.jianshu.com/p/2be492c1df96)  
+[]()  
+[]()  
+[]()  
+[]()  
